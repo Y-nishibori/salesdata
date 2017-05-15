@@ -1,0 +1,36 @@
+Bear doll,2014/01,607
+Bear doll,2014/02,7496
+Bear doll,2014/03,6288
+Bear doll,2014/04,377
+Bear doll,2014/05,4081
+Bear doll,2014/06,8629
+Bear doll,2014/07,4748
+Bear doll,2014/08,8484
+Bear doll,2014/09,3765
+Cookie,2014/10,4631
+Cookie,2014/11,4419
+Cookie,2014/12,3423
+Bear doll,2015/01,9186
+Bear doll,2015/02,6161
+Bear doll,2015/03,1953
+Bear doll,2015/04,1959
+Bear doll,2015/05,8946
+Bear doll,2015/06,8574
+Bear doll,2015/07,4457
+Bear doll,2015/08,1806
+Bear doll,2015/09,5609
+Dog food,2015/10,3436
+Dog food,2015/11,4351
+Dog food,2015/12,4703
+Dog food,2016/01,2435
+Dog food,2016/02,7909
+Dog food,2016/03,5627
+Cookie,2016/04,8964
+Cookie,2016/05,395
+Cookie,2016/06,6962
+Bear doll,2016/07,1548
+Bear doll,2016/08,9720
+Bear doll,2016/09,5758
+Cookie,2016/10,3727
+Cookie,2016/11,7855
+Cookie,2016/12,8704
